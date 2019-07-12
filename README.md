@@ -18,10 +18,9 @@
 ## Authorized Pausers
 | Name  | Ethereum Address | 
 |----------|:-------------:|
-| Robert Ross Campbell | [`0x1409f15D77F28882C220860d5F534A1A7a9F3481`]
-
+| Robert Ross Campbell | [`0x1409f15D77F28882C220860d5F534A1A7a9F3481`](https://etherscan.io/address/0x1409f15D77F28882C220860d5F534A1A7a9F3481) | 
 -----------------
-### Status: *Paused*
+### *Paused*
 -----------------
 ### Amount: 8
 -----------------
