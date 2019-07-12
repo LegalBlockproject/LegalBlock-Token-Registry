@@ -14,3 +14,12 @@
 |----------|:-------------:|
 | Robert Ross Campbell | [`0x1409f15D77F28882C220860d5F534A1A7a9F3481`](https://etherscan.io/address/0x1409f15D77F28882C220860d5F534A1A7a9F3481) | 
 | Faith Obafemi | [`0x423afc4406d10C726d5d664D2997571e69D1875F`](https://etherscan.io/address/0x423afc4406d10C726d5d664D2997571e69D1875F) | 
+
+## Authorized Pausers
+| Name  | Ethereum Address | 
+|----------|:-------------:|
+| Robert Ross Campbell | [`0x1409f15D77F28882C220860d5F534A1A7a9F3481`]
+
+### Status: *Paused*
+
+### Amount: 8
