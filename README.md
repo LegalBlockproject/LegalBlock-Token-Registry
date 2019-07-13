@@ -8,6 +8,7 @@
 | Maria Vidal | [`0x4c4d2ac40721aa756970401d57af0e237a3fd607`](https://etherscan.io/address/0x4c4d2ac40721aa756970401d57af0e237a3fd607) | 2 |
 | Dmitry Narozhny | [`0x1bc9e52bAa93Dab1a47c3168f6d82ED08856Ec83`](https://etherscan.io/address/0x1bc9e52bAa93Dab1a47c3168f6d82ED08856Ec83) | 2 |
 | Faith Obafemi | [`0x423afc4406d10C726d5d664D2997571e69D1875F`](https://etherscan.io/address/0x423afc4406d10C726d5d664D2997571e69D1875F) | 2 |
+| Luke Duncan | [`0x625236038836cecc532664915bd0399647e7826b`](https://etherscan.io/address/0x625236038836cecc532664915bd0399647e7826b) | 1 |
 -----------------
 ## Authorized Minters
 | Name  | Ethereum Address | 
@@ -23,6 +24,6 @@
 -----------------
 ### *Paused*
 -----------------
-### Amount: 8
+### Amount: 9
 -----------------
 [SOURCE CODE](.github/Sources)
