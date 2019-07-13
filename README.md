@@ -6,9 +6,21 @@
 |----------|:-------------:|:-------------:|
 | Ross Campbell | [`0x1409f15D77F28882C220860d5F534A1A7a9F3481`](https://etherscan.io/address/0x1409f15D77F28882C220860d5F534A1A7a9F3481) | 2 |
 | Maria Vidal | [`0x4c4d2ac40721aa756970401d57af0e237a3fd607`](https://etherscan.io/address/0x4c4d2ac40721aa756970401d57af0e237a3fd607) | 2 |
+| Albi Rodriguez Jaramillo | * | 2 |
 | Dmitry Narozhny | [`0x1bc9e52bAa93Dab1a47c3168f6d82ED08856Ec83`](https://etherscan.io/address/0x1bc9e52bAa93Dab1a47c3168f6d82ED08856Ec83) | 2 |
+| Giulia Aranguena De La Paz | * | 2 |
 | Faith Obafemi | [`0x423afc4406d10C726d5d664D2997571e69D1875F`](https://etherscan.io/address/0x423afc4406d10C726d5d664D2997571e69D1875F) | 2 |
 | Luke Duncan | [`0x625236038836cecc532664915bd0399647e7826b`](https://etherscan.io/address/0x625236038836cecc532664915bd0399647e7826b) | 1 |
+| Vicente Ortiz | * | 1 |
+| Juan Escallon | * | 1 |
+| Daniel Leraul | * | 1 |
+| Ignacio López del Moral | * | 1 |
+| Stefano Formenti | * | 1 |
+| Carlos David Valderrama Narváez | * | 1 |
+| Abel Revoredo | * | 1 |
+| Kert Stavorn | * | 1 |
+| Randall Barquero | * | 1 |
+
 -----------------
 ## Authorized Minters
 | Name  | Ethereum Address | 
